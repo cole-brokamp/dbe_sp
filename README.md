@@ -36,12 +36,12 @@
 
 #### Activities
 
+1. Catalog (and then expand) DBE service offerings (**J Watring**)
 1. Conduct DBE Collaborator Survey (**M Altaye**)
 1. Compare our division to other similar divisions at top ranked Children's hospitals (**C Brokamp**)
-1. Develop tools to better document divisional expertise and scientific interests ()
-1. Expand DBE service offerings ()
+1. Develop tools to better document divisional expertise and scientific interests (** J Woo and/or FCDC)
 1. Coordinate across the academic health center to better engage with scientists ()
-1. Design and test new business models ()
+1. Design and test new business models (**J Watring**)
 1. Design and launch marketing campaign and partner with CCRF to incentivize new partners' engagement ()
 
 ### 🗣️ 👥 Lead our organization and field in shared governance
