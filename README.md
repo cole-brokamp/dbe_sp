@@ -1,16 +1,25 @@
 # CCHMC Division of Biostatistics and Epidemiology Strategic Plan
 
-> Our strategic plan envisions excellence and key actions for 2025 - 2029 aligned with CCRF strategic plan and was created through a collaborative process in 2024 that engaged all division members & conducted interviews with institutional partners
+> Our strategic plan envisions excellence and key actions for 2025 - 2029 aligned with CCRF strategic plan and was created through a collaborative process in 2024 that engaged all division members as well as institutional partners.
 
 ## Mission Areas & Definitions of Excellence
 
-- **Operations:** The CCHMC DBE operations focus on efficiency, financial stability, relationship building, and team wellbeing, with transparent communication and inclusive decision-making. We provide tools, training, and opportunities to empower team members in their current roles and future aspirations.
-- **Research:** CCHMC DBE research drives advancements in pediatric and community health through rigorous science, innovative statistical and epidemiologic methods, and team collaboration. We provide insights and evidence-based solutions to address complex health challenges and improve child and community wellbeing.
-- **Education & Training:** CCHMC DBE empowers learners with the knowledge, skills, and confidence to address child health challenges through rigorous training in biostatistics, epidemiology, and clinical data science. We prepare faculty, staff, and students to ethically and effectively analyze and solve health-related problems. 
-- **Consultation & Service:** CCHMC DBE is a trusted partner in biostatistics, epidemiology, and clinical data management, delivering high-quality, tailored solutions through strong relationships and mutual commitment to excellence. Our guidance enhances research and patient care outcomes.
-- **Culture:** CCHMC DBE is a collaborative, innovative, and respectful workplace dedicated to excellence and continuous improvement. We value diversity, expertise, and teamwork to advance child health, constantly striving to grow and achieve our shared mission. 
+### Operations
+The CCHMC DBE operations focus on efficiency, financial stability, relationship building, and team wellbeing, with transparent communication and inclusive decision-making. We provide tools, training, and opportunities to empower team members in their current roles and future aspirations.
 
-## Priorities for the next five years
+### Research
+CCHMC DBE research drives advancements in pediatric and community health through rigorous science, innovative statistical and epidemiologic methods, and team collaboration. We provide insights and evidence-based solutions to address complex health challenges and improve child and community wellbeing.
+
+### Education & Training
+CCHMC DBE empowers learners with the knowledge, skills, and confidence to address child health challenges through rigorous training in biostatistics, epidemiology, and clinical data science. We prepare faculty, staff, and students to ethically and effectively analyze and solve health-related problems. 
+
+### Consultation & Service
+CCHMC DBE is a trusted partner in biostatistics, epidemiology, and clinical data management, delivering high-quality, tailored solutions through strong relationships and mutual commitment to excellence. Our guidance enhances research and patient care outcomes.
+
+### Culture
+CCHMC DBE is a collaborative, innovative, and respectful workplace dedicated to excellence and continuous improvement. We value diversity, expertise, and teamwork to advance child health, constantly striving to grow and achieve our shared mission. 
+
+## Priorities
 
 ### 🤖 📊 Develop integration of AI and machine learning with research using high-dimensional data
 
