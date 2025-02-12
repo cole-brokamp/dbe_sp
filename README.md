@@ -1,7 +1,6 @@
 # CCHMC Division of Biostatistics and Epidemiology Strategic Plan
 
-- Envisions excellence and key actions for 2025 - 2029 aligned with CCRF strategic plan
-- Collaborative process in 2024 engaged all division members + interviews with institutional partners
+> Our strategic plan envisions excellence and key actions for 2025 - 2029 aligned with CCRF strategic plan and was created through a collaborative process in 2024 that engaged all division members & conducted interviews with institutional partners
 
 ## Mission Areas & Definitions of Excellence
 
@@ -39,7 +38,7 @@
 1. Catalog (and then expand) DBE service offerings (**J Watring**)
 1. Conduct DBE Collaborator Survey (**M Altaye**)
 1. Compare our division to other similar divisions at top ranked Children's hospitals (**C Brokamp**)
-1. Develop tools to better document divisional expertise and scientific interests (** J Woo and/or FCDC)
+1. Develop tools to better document divisional expertise and scientific interests (**DBE Faculty Career Development Committee**)
 1. Coordinate across the academic health center to better engage with scientists ()
 1. Design and test new business models (**J Watring**)
 1. Design and launch marketing campaign and partner with CCRF to incentivize new partners' engagement ()
