@@ -30,9 +30,9 @@ CCHMC DBE is a collaborative, innovative, and respectful workplace dedicated to 
 
 #### Activities
 
-1. Recruit faculty with expertise in AI/machine learning and high-dimensional data (**B Zhang**)
-1. Develop foundational high-dimensional data literacy across the division (...)
-1. Conduct research with one new clinical division that leverages high-dimensional data and -omics (**N Ollberding**)
+1. Recruit faculty with expertise in AI/machine learning and high-dimensional data
+1. Develop foundational high-dimensional data literacy across the division
+1. Conduct research with one new clinical division that leverages high-dimensional data and -omics
 
 ### 🌐 🤝 Increase awareness and utilization of DBE's expertise, capabilities, and contributions
 
@@ -44,13 +44,13 @@ CCHMC DBE is a collaborative, innovative, and respectful workplace dedicated to 
 
 #### Activities
 
-1. Catalog (and then expand) DBE service offerings (**J Watring**)
-1. Conduct DBE Collaborator Survey (**M Altaye**)
-1. Compare our division to other similar divisions at top ranked Children's hospitals (**C Brokamp**)
-1. Develop tools to better document divisional expertise and scientific interests (**DBE Faculty Career Development Committee**)
-1. Coordinate across the academic health center to better engage with scientists ()
-1. Design and test new business models (**J Watring**)
-1. Design and launch marketing campaign and partner with CCRF to incentivize new partners' engagement ()
+1. Catalog (and then expand) DBE service offerings
+1. Conduct DBE Collaborator Survey
+1. Compare our division to other similar divisions at top ranked Children's hospitals
+1. Develop tools to better document divisional expertise and scientific interests
+1. Coordinate across the academic health center to better engage with scientists
+1. Design and test new business models
+1. Design and launch marketing campaign and partner with CCRF to incentivize new partners' engagement
 
 ### 🗣️ 👥 Lead our organization and field in shared governance
 
@@ -64,10 +64,10 @@ CCHMC DBE is a collaborative, innovative, and respectful workplace dedicated to 
 
 #### Activities
 
-1. Add staff position to Division Leadership Team (**M Macaluso**)
-1. Engage faculty and staff transparently in direction-setting work like strategic planning (**C Brokamp**)
-1. Develop DBE Team Survey ()
-1. Use results from DBE Team Survey to make improvements within the division (**M Macaluso**)
+1. Add staff position to Division Leadership Team
+1. Engage faculty and staff transparently in direction-setting work like strategic planning
+1. Develop DBE Team Survey
+1. Use results from DBE Team Survey to make improvements within the division
 
 ### 🎓 📚 Become a training hub in epidemiology, biostatistics, and clinical data science
 
@@ -79,7 +79,7 @@ CCHMC DBE is a collaborative, innovative, and respectful workplace dedicated to 
 
 #### Activities
 
-1. Create a new education or training initiative or program in the division focused on clinical data science (R Ittenbach)
-1. Submit one extramural training grant application ()
+1. Create a new education or training initiative or program in the division focused on clinical data science
+1. Submit one extramural training grant application
 
 
